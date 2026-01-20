@@ -4,7 +4,7 @@ A comprehensive and structured JSON dataset containing all cities and districts 
 
 ## Features
 
-- **81 Cities:** Full list of Turkish cities.
+- **81 Cities:** Full list of Turkey cities.
 - **973 Districts:** Detailed list of districts for every city.
 - **Metadata:** Includes:
   - `plateCode`: Vehicle registration codes.
